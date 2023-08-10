@@ -11,6 +11,7 @@ abstract class Routes {
   static const CHAT = _Paths.CHAT;
   static const DETAIL_TRANSAKSI = _Paths.DETAIL_TRANSAKSI;
   static const DASHBOARD = _Paths.DASHBOARD;
+
   static const FLASH = _Paths.FLASH;
 }
 
