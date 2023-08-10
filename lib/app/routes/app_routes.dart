@@ -11,6 +11,7 @@ abstract class Routes {
   static const CHAT = _Paths.CHAT;
   static const DETAIL_TRANSAKSI = _Paths.DETAIL_TRANSAKSI;
   static const DASHBOARD = _Paths.DASHBOARD;
+  static const SPLASH = _Paths.SPLASH;
 }
 
 abstract class _Paths {
@@ -23,4 +24,5 @@ abstract class _Paths {
   static const CHAT = '/chat';
   static const DETAIL_TRANSAKSI = '/detail-transaksi';
   static const DASHBOARD = '/dashboard';
+  static const SPLASH = '/splash';
 }
